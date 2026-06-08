@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- LAYER 1: Dynamic Wind / Flame / Intellect Swirls in Silver / Ice-Blue -->
+    <!-- Swirl A (Left Outer) -->
+    <path
+        android:pathData="M 40,76 C 31,65 16,48 22,32 C 26,21 40,16 46,10 C 42,18 30,32 26,46 C 22,58 30,68 40,76 Z"
+        android:fillColor="#E2E8F0"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1FFFFFFF" />
+
+    <!-- Swirl B (Left Inner High Swirl) -->
+    <path
+        android:pathData="M 46,82 C 40,65 26,40 34,24 C 38,13 48,8 49,4 C 47,11 39,24 37,38 C 35,52 44,70 46,82 Z"
+        android:fillColor="#FAFAFA"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1FFFFFFF" />
+
+    <!-- Swirl C (Right Inner High Swirl) -->
+    <path
+        android:pathData="M 54,82 C 58,70 66,52 63,38 C 60,24 55,16 53,11 C 55,17 62,28 64,42 C 66,56 58,72 54,82 Z"
+        android:fillColor="#CBD5E1"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1FFFFFFF" />
+
+    <!-- Swirl D (Right Center-Outer Swirl) -->
+    <path
+        android:pathData="M 58,78 C 64,68 74,52 72,38 C 70,26 64,18 62,14 C 64,20 71,30 72,42 C 73,54 64,70 58,78 Z"
+        android:fillColor="#94A3B8"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1FFFFFFF" />
+
+    <!-- Swirl E (Right Outer Swirl) -->
+    <path
+        android:pathData="M 64,74 C 70,64 78,54 77,44 C 76,34 72,28 70,24 C 72,29 77,37 77,46 C 77,56 70,68 64,74 Z"
+        android:fillColor="#64748B"
+        android:strokeWidth="0.3"
+        android:strokeColor="#1FFFFFFF" />
+
+
+    <!-- LAYER 2: King Drop Shadow for Depth -->
+    <path
+        android:fillColor="#4500040A"
+        android:pathData="M52.5,23.5 h3.0 v2.5 h2.5 v2.0 L55.5,28.0 L58.0,30.5 L55.5,30.5 v4.0 L59.5,34.5 C62.5,34.5 64.0,37.5 61.5,41.5 L59.5,44.5 C60.5,50.0 64.0,66.0 66.5,74.5 M66.5,74.5 L70.5,74.5 L70.5,78.5 L66.5,78.5 M66.5,78.5 L72.5,78.5 L72.5,84.5 L37.5,84.5 L37.5,78.5 L43.5,78.5 M43.5,78.5 L39.5,78.5 L39.5,74.5 L43.5,74.5 C46.5,66.0 49.5,50.0 50.5,44.5 L48.5,41.5 C46.0,37.5 47.5,34.5 50.5,34.5 v-4.0 h-3.0 L45.0,30.5 L47.5,28.0 L45.0,28.0 v-2.0 h2.5 v-2.5 Z" />
+
+
+    <!-- LAYER 3: Main Platinum King Body Silhouette -->
+    <path
+        android:pathData="M 54.0,21.0 L 51.5,21.0 L 51.5,23.5 L 49.0,23.5 L 49.0,25.5 L 51.5,25.5 L 51.5,29.0 C 47.0,29.0 45.0,33.0 48.0,37.0 L 46.5,39.5 L 49.5,39.5 C 48.5,46.0 44.5,65.0 42.0,73.0 L 37.0,73.0 L 37.0,77.5 L 40.0,77.5 L 40.0,82.5 L 68.0,82.5 L 68.0,77.5 L 71.0,77.5 L 71.0,73.0 L 66.0,73.0 C 63.5,65.0 59.5,46.0 58.5,39.5 L 61.5,39.5 L 60.0,37.0 C 63.0,33.0 61.0,29.0 56.5,29.0 L 56.5,25.5 L 59.0,25.5 L 59.0,23.5 L 56.5,23.5 L 56.5,21.0 Z"
+        android:fillColor="#E2E8F0" />
+
+
+    <!-- LAYER 4: Platinum Accents (Crown Trim & Pedestal Bands) -->
+    <!-- A. King's Crown Base band -->
+    <path
+        android:pathData="M48.0,37.0 C52.0,38.5 56.0,38.5 60.0,37.0 L58.5,39.5 C55.5,41.0 52.5,41.0 49.5,39.5 Z"
+        android:fillColor="#FAFAFA"
+        android:strokeWidth="0.4"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- B. Lower Decorative Platinum Collar -->
+    <path
+        android:pathData="M 46.5,50.0 C 51.5,52.0 56.5,52.0 61.5,50.0 C 61.0,51.8 57.0,53.5 54.0,53.5 C 51.0,53.5 47.0,51.8 46.5,50.0 Z"
+        android:fillColor="#CBD5E1"
+        android:strokeWidth="0.3"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- C. Platinum Pedestal Inset (Middle Step of Base) -->
+    <path
+        android:pathData="M 40.0,77.5 L 68.0,77.5 L 68.0,79.5 L 40.0,79.5 Z"
+        android:fillColor="#475569"
+        android:strokeWidth="0.4"
+        android:strokeColor="#FFFFFF" />
+
+
+    <!-- LAYER 5: 3D Highlighting & Specular Split -->
+    <!-- Specular Highlight Curve on Left Side -->
+    <path
+        android:pathData="M 52.5,22.0 L 52.5,24.5 L 50.0,24.5 L 50.0,25.0 L 52.5,25.0 L 52.5,28.0 M 50.0,30.5 C 48.0,32.0 48.0,35.0 50.0,36.5 M 48.0,41.0 C 46.5,48.0 43.5,65.0 43.5,72.0"
+        android:strokeWidth="0.8"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Crisp Outer edge clean white highlight -->
+    <path
+        android:pathData="M 38.0,74.0 L 38.0,76.5 M 41.0,78.5 L 41.0,81.5"
+        android:strokeWidth="1.0"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Dark shadow specular split down the center for high contrast bevel -->
+    <path
+        android:pathData="M 54.0,21.0 L 54.0,29.0 M 54.0,29.0 L 54.0,36.0 M 54.0,39.5 L 54.0,73.0 M 54.0,73.0 L 54.0,77.5 M 54.0,77.5 L 54.0,82.5"
+        android:strokeWidth="0.6"
+        android:strokeColor="#50000000" />
+
+    <!-- Crown dynamic silver cross emblem overlay -->
+    <path
+        android:pathData="M52.5,21.5 h3.0 v2.0 h2.5 v1.5 L55.5,25.0 v3.5 h-3.0 L52.5,25.0 h-2.5 L50.0,23.5 L52.5,23.5 Z"
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="0.3"
+        android:strokeColor="#FAFAFA" />
+
+
+    <!-- LAYER 6: Precision Blueprint Technical Marking Lines & Accents -->
+    <!-- Top-Left Blueprint Frame and Axes -->
+    <path
+        android:pathData="M 14,21 H 46 M 25,12 V 42 M 14,14 L 32,32"
+        android:strokeWidth="0.6"
+        android:strokeColor="#70CBD5E1" />
+
+    <!-- Top-Right Blueprint Frame and Axes -->
+    <path
+        android:pathData="M 62,21 H 94 M 83,12 V 42 M 94,14 L 76,32"
+        android:strokeWidth="0.6"
+        android:strokeColor="#70CBD5E1" />
+
+    <!-- Bottom-Left Blueprint Frame and Axes -->
+    <path
+        android:pathData="M 14,87 H 46 M 25,66 V 96 M 14,94 L 32,76"
+        android:strokeWidth="0.6"
+        android:strokeColor="#70CBD5E1" />
+
+    <!-- Bottom-Right Blueprint Frame and Axes -->
+    <path
+        android:pathData="M 62,87 H 94 M 83,66 V 96 M 94,94 L 76,76"
+        android:strokeWidth="0.6"
+        android:strokeColor="#70CBD5E1" />
+
+    <!-- Mid-Right Pawn cross blueprint axis -->
+    <path
+        android:pathData="M 68,60 L 94,86 M 76,64 L 84,72"
+        android:strokeWidth="0.6"
+        android:strokeColor="#70CBD5E1" />
+
+
+    <!-- LAYER 7: Precise Mathematical Stylized Chess Corner Figures -->
+    <!-- Knight (Top-Left, around x=28, y=26) -->
+    <path
+        android:pathData="M 25,29 H 31 V 28 C 31,26.5 29,24.5 27.5,24.5 C 26.5,24.5 26,25 26,25.5 C 26,26 26.5,26 26.5,26 C 26.5,26 26.8,25.5 27.5,25.5 C 28.2,25.5 28.5,26.5 28.5,27.5 L 26,27 M 25,29 H 31"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0"
+        android:fillColor="#80475569" />
+
+    <!-- Rook (Top-Right, around x=82, y=26) -->
+    <path
+        android:pathData="M 80,29 H 86 V 26 H 85.2 V 27 H 84.4 V 26 H 83.6 V 27 H 82.8 V 26 H 82 V 26 H 81.2 V 27 H 80.4 V 26 H 80 Z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0"
+        android:fillColor="#80475569" />
+
+    <!-- Rook (Bottom-Left, around x=22, y=82) -->
+    <path
+        android:pathData="M 22,85 H 28 V 82 H 27.2 V 83 H 26.4 V 82 H 25.6 V 83 H 24.8 V 82 H 24 V 82 H 23.2 V 83 H 22.4 V 82 H 22 Z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0"
+        android:fillColor="#80475569" />
+
+    <!-- Pawn (Mid-Right, around x=76.2, y=65) -->
+    <path
+        android:pathData="M 74.5,66 C 74.5,65.2 75.2,64.5 76,64.5 C 76.8,64.5 77.5,65.2 77.5,66 C 77.5,66.5 77.2,67 76.7,67.2 L 77.5,69 H 74.5 L 75.3,67.2 C 74.8,67 74.5,66.5 74.5,66 Z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0"
+        android:fillColor="#80475569" />
+
+    <!-- Queen (Bottom-Right, around x=70, y=82) -->
+    <path
+        android:pathData="M 67.5,85 H 74.5 V 82 L 73.2,83.5 L 72,82 L 71,83.5 L 70,82 L 68.8,83.5 L 67.5,82 Z"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0"
+        android:fillColor="#80475569" />
+</vector>

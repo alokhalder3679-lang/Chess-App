@@ -1,0 +1,6 @@
+{
+  "name": "Chess",
+  "description": "A clean, lightweight, and interactive Chess app built using Kotlin, Jetpack Compose, MVVM architecture, robust validation mechanics, and a complete history/undo capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
